@@ -10,3 +10,8 @@ In the model there is C# cpde for the rotation of the scanner while walking, the
 See below version 1.0. Version 1.1 will include doors opening and warning messages for best practice in order to export optimal results (3D PC).
 
 ![Unity_JLsKJMRhM3](https://user-images.githubusercontent.com/59291425/188331436-1f78974c-3a30-4f2e-ba8b-661588e4bf12.gif)
+
+See below the other side of the building
+
+![Unity_s2fENd5W0W](https://user-images.githubusercontent.com/59291425/188331589-fc507638-52a3-42c6-8801-e630a5d756de.gif)
+
